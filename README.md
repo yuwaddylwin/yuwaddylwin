@@ -1,14 +1,13 @@
 
 # Hi 👋 I'm Yu Waddy Lwin  
 
-💻 Computer Science Student @ Rangsit University  
-🌱 Currently learning React & Node.js  
+💻 Computer Science Student @ Rangsit University   
 🚀 Building projects and exploring Full-Stack Web development  
 
 ---
 
 ### 👀 What I'm Up To  
-- 🌐 Working on my personal project 
+- 🌐 Working on my personal full-stack project 
 - 📚 Improving my React, Node.js, Express.js, and MongoDB skills with practice projects 
 - 🧠 Exploring Data Structures & algorithms  
 
