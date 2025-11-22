@@ -6,9 +6,10 @@
 ---
 
 ### 👀 What I'm Up To  
-- 🌐 Working on my personal full-stack project 
-- 🚀 Improving my React, Node.js, Express.js, and MongoDB skills with practice projects 
-- 🧠 Exploring Data Structures & algorithms
+- 🌐 Working on my personal Full-Stack WebApp 
+- 🚀 Improving my React.js, Node.js, Express.js, and MongoDB skills
+- 🧠 Mastering Data Structures & algorithms
+- Check Out [My Portfolio!](https://yuwaddylwin.onrender.com)
 
 ---
 
@@ -38,4 +39,4 @@
 
 ---
 
-☘️ From [yuwaddylwin](https://github.com/yuwaddylwin)
+
