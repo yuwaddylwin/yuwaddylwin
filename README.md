@@ -1,19 +1,18 @@
 
 # Hi 👋 I'm Yu Waddy Lwin  
 
-💻 Computer Science Student @ Rangsit University   
-🚀 Building projects and exploring Full-Stack Web development  
+👩🏻‍💻 A Senior Computer Science Student at Rangsit University, passionate about exploring Full-Stack Web development and building projects to solve real problems!  
 
 ---
 
 ### 👀 What I'm Up To  
 - 🌐 Working on my personal full-stack project 
-- 📚 Improving my React, Node.js, Express.js, and MongoDB skills with practice projects 
-- 🧠 Exploring Data Structures & algorithms  
+- 🚀 Improving my React, Node.js, Express.js, and MongoDB skills with practice projects 
+- 🧠 Exploring Data Structures & algorithms
 
 ---
 
-### ✨ Tech Stack
+### ✨💻 Tech Stack
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
@@ -30,7 +29,7 @@
 <a href="https://www.instagram.com/yuwaddyl_win/profilecard/?igsh=eXdtb3ByYTBnY3lw" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" height="30" style="vertical-align: middle; margin-right: 10px;" alt="Instagram" />
 </a>
-<a href="http://yuwaddylwin.github.io" target="_blank">
+<a href="https://yuwaddylwin.onrender.com" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="30" height="30" style="vertical-align: middle; margin-right: 10px;" alt="Portfolio" />
 </a>
 
