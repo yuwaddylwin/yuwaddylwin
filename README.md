@@ -27,7 +27,7 @@ A Senior Computer Science Student at Rangsit University, passionate about explor
 <a href="https://www.linkedin.com/in/yu-waddy-lwin-133052377/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" style="vertical-align: middle; margin-right: 10px;" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/yuwaddyl_win/profilecard/?igsh=eXdtb3ByYTBnY3lw" target="_blank">
+<a href="https://www.instagram.com/yuwaddy_lwin?igsh=eXdtb3ByYTBnY3lw&utm_source=qr" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" height="30" style="vertical-align: middle; margin-right: 10px;" alt="Instagram" />
 </a>
 <a href="https://yuwaddylwin.onrender.com" target="_blank">
