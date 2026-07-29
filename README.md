@@ -1,5 +1,10 @@
+<table>
+<tr>
 
-# Hi! I'm Yu Waddy Lwin  
+<td width="80%" valign="top">
+
+
+# Hi! 👋 I'm Yu Waddy Lwin  
 
 A Senior Computer Science Student at Rangsit University, building projects to solve real problems and improving my skills!  
 
@@ -11,7 +16,16 @@ A Senior Computer Science Student at Rangsit University, building projects to so
 - Mastering DSA & System Design
 - Check out [My Portfolio!](https://yuwaddylwin.onrender.com)
 
----
+</td>
+
+<td width="20%" align="center">
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1yMWNxeWU1MHQ2aXdtajc4cmJidDA1aW9zaWNia3M4azBsb2NnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="260"/>
+
+</td>
+
+</tr>
+</table>
 
 ### 💻 Tech Stack
 Programming Languages
@@ -43,9 +57,11 @@ Frameworks & Tools
 <a href="https://www.linkedin.com/in/yu-waddy-lwin-133052377/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" style="vertical-align: middle; margin-right: 10px;" alt="LinkedIn" />
 </a>
+
 <a href="https://www.instagram.com/yuwaddy_lwin?igsh=eXdtb3ByYTBnY3lw&utm_source=qr" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" height="30" style="vertical-align: middle; margin-right: 10px;" alt="Instagram" />
 </a>
+
 <a href="https://yuwaddylwin.onrender.com" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="30" height="30" style="vertical-align: middle; margin-right: 10px;" alt="Portfolio" />
 </a>
